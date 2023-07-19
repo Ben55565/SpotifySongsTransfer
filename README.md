@@ -34,6 +34,4 @@
 
 🙏 Thank you for your interest! 🙏
 
-![Thank You](insert_image_url_here)
-
 ---
